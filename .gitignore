@@ -36,17 +36,15 @@
 *.db
 *.ipch
 *.pdb
+*.idb
 
 # linking
 *.ilk
 
 # logs
 *.tlog
+*.log
 
 # build
 *.lastbuildstate
 
-# project files
-*.vcxproj
-*.vcproj.filters
-*.vcxproj.user
